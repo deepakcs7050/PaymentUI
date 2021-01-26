@@ -1,0 +1,147 @@
+{
+	"id": 1,
+	"name": "WELCHER URLAUBSTYP BIN ICH?",
+	"questionTree": {
+		"e0": {
+			"e1_a0": {
+				"name": "ICH LIEBE LANDSCHAFT UND NATUR",
+				"img": "./custom/surveys/1/img/Sascha_Egerland_18.jpg",
+				"thumbnail_source": "&copy; Sascha Egerland",
+				"questionTree": {
+					"e2_a0": {
+						"name": "SPORTLICH AKTIV",
+						"description": "Ich m\u00f6chte mich aktiv in der Natur bewegen, bin sportbegeistert und habe auch im Urlaub gerne Action",
+						"img": "./custom/surveys/1/img/TASH_Sascha_Egerland_03.jpg",
+						"thumbnail_source": "&copy; Sascha Egerland",
+						"questionTree": {
+							"result": {
+								"path": "e0,e1_a0,e2_a0",
+								"title": "WIND & B\u00d6E - MEERESABENTEUER AN DER OSTSEE",
+								"type": "pdf",
+								"url": "./custom/surveys/1/pdf/WIND & BÖE.pdf",
+								"description": "Hier finden Sie die passende Urlaubsinspiration zu Ihrem Test-Ergebnis &#8594;",
+								"thumbnail": "./custom/surveys/1/img/pdfthumbnails/coverfinal.jpg",
+								"thumbnail_source": "&copy; Photophob"
+							}
+						}
+					},
+					"e2_a1": {
+						"name": "IN DER RUHE LIEGT DIE KRAFT",
+						"description": "Ich liebe es, mich im Freien aufzuhalten, die Ruhe zu genie\u00dfen und lange Spazierg\u00e4nge zu unternehmen",
+						"img": "./custom/surveys/1/img/TA.SH_KaiKoPhoto_13.jpg",
+						"thumbnail_source": "&copy; KaiKoPhoto",
+						"questionTree": {
+							"result": {
+								"path": "e0,e1_a0,e2_a1",
+								"title": "GANZ GEM\u00dcTLICH - RUHEFINDER",
+								"type": "pdf",
+								"url": "./custom/surveys/1/pdf/GANZ GEMÜTLICH.pdf",
+								"description": "Hier finden Sie die passende Urlaubsinspiration zu Ihrem Test-Ergebnis &#8594;",
+								"thumbnail": "./custom/surveys/1/img/pdfthumbnails/coverfinal.jpg",
+								"thumbnail_source": "&copy; Photophob"
+							}
+						}
+					}
+				}
+			},
+			"e1_a1": {
+				"name": "MARITIME ST\u00c4DTE BEGEISTERN MICH",
+				"img": "./custom/surveys/1/img/Jens_K\u00f6nig_Kleine_Gasse_in_Flensburg.jpg",
+				"thumbnail_source": "&copy; Jens König",
+				"questionTree": {
+					"e2_a0": {
+						"name": "KULTUR & GESCHICHTE",
+						"description": "Ich bin ein gro\u00dfer Kulturfreund und interessiere mich f\u00fcr Kunst und Geschichte",
+						"img": "./custom/surveys/1/img/Jens_K\u00f6nig_Segelmast_am_Abend_Husum.jpg",
+						"thumbnail_source": "&copy; Jens König",
+						"questionTree": {
+							"result": {
+								"path": "e0,e1_a1,e2_a0",
+								"title": "STADT & MEER - KULTURELLE PERLEN",
+								"type": "pdf",
+								"url": "./custom/surveys/1/pdf/STADT & MEER.pdf",
+								"description": "Hier finden Sie die passende Urlaubsinspiration zu Ihrem Test-Ergebnis &#8594;",
+								"thumbnail": "./custom/surveys/1/img/pdfthumbnails/coverfinal.jpg",
+								"thumbnail_source": "&copy; Photophob"
+							}
+						}
+					},
+					"e2_a1": {
+						"name": "MARITIMES FLAIR & KULINARIK",
+						"description": "Ich lasse mich gerne von maritimem Flair und kulinarischen K\u00f6stlichkeiten begeistern",
+						"img": "./custom/surveys/1/img/shutterstock_591653447_DisobeyArt.jpg",
+						"thumbnail_source": "&copy; shutterstock_DisobeyArt",
+						"questionTree": {
+							"result": {
+								"path": "e0,e1_a1,e2_a1",
+								"title": "STADT & MEER - MARITIMES FLAIR",
+								"type": "pdf",
+								"url": "./custom/surveys/1/pdf/STADT & MEER.pdf",
+								"description": "Hier finden Sie die passende Urlaubsinspiration zu Ihrem Test-Ergebnis &#8594;",
+								"thumbnail": "./custom/surveys/1/img/pdfthumbnails/coverfinal.jpg",
+								"thumbnail_source": "&copy; Photophob"
+							}
+						}
+					}
+				}
+			},
+			"e1_a2": {
+				"name": "ENTSPANNEN UND FRISCHLUFT SCHNUPPERN - GENAU MEIN DING",
+				"img": "./custom/surveys/1/img/Schleswig-Holstein_(c)_Sven_Meier_G\u00fcby_(10).jpg",
+				"thumbnail_source": "&copy; Sven Meier, Güby",
+				"questionTree": {
+					"e2_a0": {
+						"name": "GESUNDHEIT, WELLNESS & ERHOLUNG",
+						"img": "./custom/surveys/1/img/shutterstock_216972844_EpicStockMedia.jpg",
+						"thumbnail_source": "&copy; shutterstock_EpicStockMedia",
+						"description": "Mir ist der Gesundheitsaspekt in Kombination mit Wellness und Erholung sehr wichtig - Ein Rundum-Sorglos-Paket ist genau das Richtige f\u00fcr mich",
+						"questionTree": {
+							"result": {
+								"path": "e0,e1_a2,e2_a0",
+								"title": "WIND & B\u00d6E - GESUND & MUNTER AN DER NORDSEE",
+								"type": "pdf",
+								"url": "./custom/surveys/1/pdf/WIND & BÖE.pdf",
+								"description": "Hier finden Sie die passende Urlaubsinspiration zu Ihrem Test-Ergebnis &#8594;",
+								"thumbnail": "./custom/surveys/1/img/pdfthumbnails/coverfinal.jpg",
+								"thumbnail_source": "&copy; Photophob"
+							}
+						}
+					},
+					"e2_a1": {
+						"name": "GEM\u00dcTLICHKEIT & SPONTANTE AUSFL\u00dcGE",
+						"img": "./custom/surveys/1/img/Schleswig-Holstein_(c)_Sven_Meier_G\u00fcby_(15).jpg",
+						"thumbnail_source": "&copy; Sven Meier, Güby",
+						"description": "Im Urlaub steht f\u00fcr mich die Zeit still, ich lebe gerne in den Tag hinein, bin ein Drau\u00dfenliebhaber und entscheide gerne spontan",
+						"questionTree": {
+							"result": {
+								"path": "e0,e1_a2,e2_a1",
+								"title": "GANZ GEM\u00dcTLICH - SCHEUNENGL\u00dcCK",
+								"type": "pdf",
+								"url": "./custom/surveys/1/pdf/GANZ GEMÜTLICH.pdf",
+								"description": "Hier finden Sie die passende Urlaubsinspiration zu Ihrem Test-Ergebnis &#8594;",
+								"thumbnail": "./custom/surveys/1/img/pdfthumbnails/coverfinal.jpg",
+								"thumbnail_source": "&copy; Photophob"
+							}
+						}
+					}
+				}
+			},
+			"e1_a3": {
+				"name": "AM LIEBSTEN VON ALLEM ETWAS",
+				"img": "./custom/surveys/1/img/M2407392.png",
+				"thumbnail_source": "&copy; Sven Meier, Güby",
+				"questionTree": {
+					"result": {
+						"path": "e0,e1_a3",
+						"title": "#EINMALMITALLES",
+						"type": "pdf",
+						"url": "./custom/surveys/1/pdf/%23EINMALMITALLES.pdf",
+						"description": "Hier finden Sie die passende Urlaubsinspiration zu Ihrem Test-Ergebnis &#8594;",
+						"thumbnail": "./custom/surveys/1/img/pdfthumbnails/coverfinal.jpg",
+						"thumbnail_source": "&copy; Photophob"
+					}
+				}
+			}
+		}
+	}
+}
